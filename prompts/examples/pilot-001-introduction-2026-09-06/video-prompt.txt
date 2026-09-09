@@ -4,6 +4,11 @@ Duration: 30 seconds. Aspect ratio: 9:16. Resolution: 720p. Natural camera movem
 
 NON-NEGOTIABLE SPOKEN LANGUAGE:
 Every spoken word must be natural contemporary Argentine Rioplatense Spanish from Buenos Aires, with voseo and porteño cadence. Pronounce LL/Y naturally Rioplatense. Do not use neutral Latin American Spanish, Mexican Spanish, Colombian Spanish, Castilian Spanish, English-accented Spanish, or synthetic AI-assistant neutral Spanish. The dialogue must sound spoken, not dubbed or read.
+Read every written accent in the dialogue exactly as written: the tildes carry the stress.
+"IA" is said as two separate letters, "i-a", never as one word "ia".
+"app" is said "ap", one syllable.
+"Google" is said the Argentine way, "gú-gol".
+The show name is said "El Pri-mer Fe-ca", never spelled F-E-C-A and never like English "fake".
 
 Visual law: 95% reality, 5% impossible. A newspaper from the future filmed every morning. Use paper, ink, wood, glass, coffee, books, notebooks, maps, plants, morning sunlight, real skin texture, subtle film grain, Buenos Aires atmosphere. Avoid cyberpunk, blue neon, holograms, Matrix code, glowing circuits, generic futuristic studios, corporate AI aesthetics, waxy skin, perfect generic AI faces, huge LED walls.
 
@@ -16,13 +21,13 @@ Use the supplied canonical image references for visual identity:
 - Santi "El Productor": off-camera executive producer based on Santi, beard, hair, amber/tortoiseshell glasses, cream/off-white blazer, vintage graphic T-shirt, faded jeans, headphones around neck, walkie-talkie. Preserve his recognizable identity from the reference. He appears accidentally, not as a formal presenter.
 
 Shot sequence:
-0-4s: Tight close-up of Clara. She looks directly at camera. Blue notebook visible. Morning light. She says: "Dormiste. Internet no. Buen dia."
-4-9s: Camera gently widens to reveal the newsroom. Clara starts walking naturally through the space and says: "Mientras vos dormias pasaron miles de cosas. Algunas importantes. Otras gritaban para parecerlo."
-9-13s: Clara passes Diego at the communal table. Diego wears the canonical vintage tennis headband, holding mate and looking at a sports notebook. Without looking up, Diego says: "Y encontre un dato completamente inutil." Clara keeps walking and says: "Obviamente."
-13-22s: Back with Clara moving through newsroom. Physical newspapers and notes show quick glimpses of current topics: economia argentina, subsidios con datos, Ucrania, pronostico con IA, futbol argentino. Clara says: "Argentina discute rumbo economico y subsidios con lupa de datos. Ucrania vuelve a la mesa diplomatica. Google metio IA en el pronostico del clima. Y hoy hay futbol con olor a domingo largo."
+0-4s: Tight close-up of Clara. She looks directly at camera. Blue notebook visible. Morning light. She says: "Dormiste. Internet no. Buen día."
+4-9s: Camera gently widens to reveal the newsroom. Clara starts walking naturally through the space and says: "Mientras vos dormías pasaron miles de cosas. Algunas importantes. Otras gritaban para parecerlo."
+9-13s: Clara passes Diego at the communal table. Diego wears the canonical vintage tennis headband, holding mate and looking at a sports notebook. Without looking up, Diego says: "Y encontré un dato completamente inútil." Clara keeps walking and says: "Obviamente."
+13-22s: Back with Clara moving through newsroom. Physical newspapers and notes show quick glimpses of current topics: economía argentina, subsidios con datos, Ucrania, pronóstico con IA, fútbol argentino. Clara says: "Argentina discute rumbo económico y subsidios con lupa de datos. Ucrania vuelve a la mesa diplomática. Google metió IA en el pronóstico del clima. Y hoy hay fútbol con olor a domingo largo."
 22-26s: Brief glimpse of Sairi in the tech corner inside the same newsroom. She is not in a futuristic lab; she has a laptop, mechanical keyboard, small robot, tablet, cables, and a few gadgets. One impossible visual idea only: ink from a newspaper weather map rises gently as a tiny living cloud above the page. Sairi says: "No es una app nueva. Es una capacidad nueva."
 26-29s: Camera overshoots and accidentally catches Santi the producer reflected in glass, with headphones around neck and walkie-talkie. He says quickly from just outside frame: "Dame veinte segundos." Clara answers: "Treinta." Santi says: "Quince."
-29-30s: Clara turns back to camera, amused but calm, and says: "Perfecto. El Primer Feca."
+29-30s: Clara turns back to camera, amused but calm, and says: "Perfecto. El Pri-mer Fe-ca."
 
 Performance:
 Clara speaks to one person across a breakfast table, not to "the audience". Warm, precise, slightly ironic, no announcer voice.

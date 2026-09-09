@@ -1,18 +1,18 @@
 CLARA:
 Dormiste. Internet no.
 
-Buen dia.
+Buen día.
 
-Mientras vos dormias pasaron miles de cosas. Algunas importantes. Otras gritaban para parecerlo.
+Mientras vos dormías pasaron miles de cosas. Algunas importantes. Otras gritaban para parecerlo.
 
 DIEGO:
-Y encontre un dato completamente inutil.
+Y encontré un dato completamente inútil.
 
 CLARA:
 Obviamente.
 
 CLARA:
-Argentina discute rumbo economico y subsidios con lupa de datos. Ucrania vuelve a la mesa diplomatica. Google metio IA en el pronostico del clima. Y hoy hay futbol con olor a domingo largo.
+Argentina discute rumbo económico y subsidios con lupa de datos. Ucrania vuelve a la mesa diplomática. Google metió IA en el pronóstico del clima. Y hoy hay fútbol con olor a domingo largo.
 
 SAIRI:
 No es una app nueva. Es una capacidad nueva.
@@ -29,4 +29,4 @@ Quince.
 CLARA:
 Perfecto.
 
-El Primer Feca.
+El Pri-mer Fe-ca.
