@@ -41,4 +41,6 @@
 - El personaje elegido calza con la noticia:
 - El elemento visual concreto está definido:
 - El guion entra respirado en 30 segundos:
+- El chequeo de pronunciación pasa sin errores:
+- El bloque de pronunciación está pegado en el prompt de video:
 

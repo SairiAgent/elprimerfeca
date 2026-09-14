@@ -1,7 +1,7 @@
 Create a vertical 9:16, 720p, 30-second Instagram Reel for EL PRIMER FECA using Higgsfield Seedance 2.5 in omni_reference mode. Generate natural audio.
 
 LANGUAGE AND VOICE ARE HARD REQUIREMENTS:
-All spoken words must be natural contemporary Argentine Rioplatense Spanish, Buenos Aires / porteno accent, natural voseo cadence. It must sound like a real older Argentine markets columnist speaking calmly before breakfast, not neutral Latin American Spanish, not Mexican, not Colombian, not Castilian Spanish, not English-accented Spanish, not a corporate announcer.
+All spoken words must be natural contemporary Argentine Rioplatense Spanish, Buenos Aires / porteño accent, natural voseo cadence. It must sound like a real older Argentine markets columnist speaking calmly before breakfast, not neutral Latin American Spanish, not Mexican, not Colombian, not Castilian Spanish, not English-accented Spanish, not a corporate announcer.
 
 Pronunciation lock:
 The show name is "El Primer Feca".
@@ -9,6 +9,10 @@ Pronounce it clearly as Spanish Rioplatense: "El Pri-mer Fe-ca".
 "Feca" is one word with two syllables, FE-ca.
 Do NOT spell it as letters F-E-C-A.
 Do NOT pronounce it like English "fake" or "fika".
+
+Read every written accent in the script exactly as written: the tildes carry the stress.
+"INDEC" is said as one Spanish word, "índec", never spelled I-N-D-E-C.
+"blue" in "dólar blue" is said the Argentine way, "blu", never with English vowels.
 
 Character identity:
 Use the supplied reference image to preserve Ricardo "Ricky" Bertola exactly: visibly 67 years old, silver-gray slightly rebellious hair, natural receding hairline, deep expression lines, visible older skin texture, tired intelligent eyes, prominent distinctive nose, short gray stubble, dark navy blazer, slightly wrinkled Oxford shirt, old knit tie optional. He is a veteran Buenos Aires market observer, not a TV economist, not a crypto influencer, not a young man with gray hair.
@@ -25,17 +29,17 @@ Clear, smart, dry, calm. News first, joke second. No hype, no investment advice,
 Use the exact spoken script below with natural timing:
 
 RICKY:
-Buen dia. El dolar arranca la semana casi sin brecha: oficial cerca de mil quinientos treinta, blue cerca de mil quinientos cuarenta.
+Buen día. El dólar arranca la semana casi sin brecha: oficial cerca de mil quinientos treinta, blue cerca de mil quinientos cuarenta.
 
 Eso suena tranquilo. Y sirve. Pero no confundas silencio con salud.
 
-La pregunta importante es otra: que pasa con las tasas, el credito, los sueldos y los precios.
+La pregunta importante es otra: qué pasa con las tasas, el crédito, los sueldos y los precios.
 
-INDEC viene de marcar julio con dos coma uno de inflacion y junio con actividad arriba interanual. Bien.
+INDEC viene de marcar julio con dos coma uno de inflación y junio con actividad arriba interanual. Bien.
 
-Pero si el credito se enfria o la tasa muerde, el bolsillo lo siente antes que el grafico.
+Pero si el crédito se enfría o la tasa muerde, el bolsillo lo siente antes que el gráfico.
 
-Yo esto ya lo vi: cuando el dolar no grita, hay que escuchar los numeros chicos.
+Yo esto ya lo vi: cuando el dólar no grita, hay que escuchar los números chicos.
 
 El Pri-mer Fe-ca.
 

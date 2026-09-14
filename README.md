@@ -27,12 +27,12 @@ No es un avatar leyendo titulares. La ambición es construir una redacción con 
 
 ## Qué Hay En Este Repo
 
-- `docs/` - reglas editoriales, flujo diario, dirección visual y criterios de QA.
+- `docs/` - reglas editoriales, flujo diario, dirección visual, guía de pronunciación y criterios de QA.
 - `characters/` - biblia de protagonistas: Clara Ferrer, Diego Moreno, Tomás Vega, Valentina Rinaldi, Ricky Bertola, Amaru Ferreyra, Sairi y Santi "El Productor".
 - `assets/brand/` - marca visual pública de EL PRIMER FECA.
 - `prompts/templates/` - plantillas para crear nuevos videos.
 - `prompts/examples/` - prompts, guiones, captions y notas de investigación de piezas reales.
-- `tools/` - utilidades publicables, sin credenciales, para checks editoriales.
+- `tools/` - utilidades publicables, sin credenciales, para checks editoriales: dedupe de temas y chequeo de pronunciación.
 
 ## Qué No Hay
 
@@ -72,7 +72,7 @@ Eso no es romanticismo open source. Es higiene básica.
    Se agregan subtítulos, portada ilustrada inicial y cola de seguridad para que Instagram no corte el final.
 
 8. **QA**
-   Se verifica identidad del personaje, audio, acento, subtítulos, verticalidad, portada, caption y aparición de elementos prometidos por el guion.
+   Se verifica identidad del personaje, audio, acento, pronunciación palabra por palabra, subtítulos, verticalidad, portada, caption y aparición de elementos prometidos por el guion.
 
 9. **Publicación**
    El video se publica con caption descriptivo y fuentes.
@@ -118,7 +118,8 @@ Para crear una nueva pieza:
 3. Usá `video-prompt-template.md` para generar la escena.
 4. Usá `cover-prompt-template.md` para la portada.
 5. Escribí el caption con `caption-template.md`.
-6. Corré la checklist de `qa-checklist.md` antes de publicar.
+6. Pasá el chequeo de pronunciación: `node tools/primerfeca-pronunciation-check.js check --script script.txt`.
+7. Corré la checklist de `qa-checklist.md` antes de publicar.
 
 Los ejemplos reales en `prompts/examples/` muestran cómo se aterriza el sistema.
 

@@ -1,7 +1,7 @@
 Create a polished internal test video for EL PRIMER FECA, vertical 9:16, 720p, 30 seconds, AI-native Argentine morning newsroom show.
 
 LANGUAGE AND VOICE ARE HARD REQUIREMENTS:
-All spoken words must be natural contemporary Argentine Rioplatense Spanish, Buenos Aires / porteno accent, natural voseo cadence, spoken like real morning television conversation, not neutral Latin American Spanish, not Mexican, not Colombian, not Castilian Spanish, not English-accented Spanish, not corporate announcer narration.
+All spoken words must be natural contemporary Argentine Rioplatense Spanish, Buenos Aires / porteño accent, natural voseo cadence, spoken like real morning television conversation, not neutral Latin American Spanish, not Mexican, not Colombian, not Castilian Spanish, not English-accented Spanish, not corporate announcer narration.
 
 Pronunciation lock:
 The show name is "El Primer Feca".
@@ -11,31 +11,37 @@ Do NOT spell it as letters F-E-C-A.
 Do NOT pronounce it like English "Fika".
 Do NOT flatten it into neutral Latin American announcer Spanish.
 
+Read every written accent in the script exactly as written: the tildes carry the stress.
+"sabés" is Rioplatense voseo, stressed on the last syllable, never the tuteo "sabes".
+"doomscrolling" is said the Argentine way, "dum-SCRO-lin".
+"unfollow" is said the Argentine way, "an-FÓ-lou".
+"IA" is said as two separate letters, "i-a", never as one word "ia".
+
 Use the exact spoken script below, with natural timing and slight conversational overlaps where appropriate:
 
 CLARA:
-Ahora que ya sabes que existe El Primer Feca, falta lo importante: quien te va a ahorrar el doomscrolling.
+Ahora que ya sabés que existe El Pri-mer Fe-ca, falta lo importante: quién te va a ahorrar el doomscrolling.
 
 DIEGO:
-Yo traigo deportes. Y datos inutiles que, lamentablemente, explican bastante.
+Yo traigo deportes. Y datos inútiles que, lamentablemente, explican bastante.
 
-TOMAS:
-Yo voy a la calle. Si hay lluvia, paro, fila o senora indignada, estoy ahi.
+TOMÁS:
+Yo voy a la calle. Si hay lluvia, paro, fila o señora indignada, estoy ahí.
 
 VALENTINA:
 Yo cubro cultura pop, famosos e internet. Si hubo unfollow, no fue accidente.
 
 RICKY:
-Yo miro economia y mercados. Prometo no decir "variables nominales" antes del cafe.
+Yo miro economía y mercados. Prometo no decir "variables nominales" antes del café.
 
 SAIRI:
-Yo cubro tecnologia, IA y ciencia. Basicamente: que podemos hacer hoy que ayer no podiamos.
+Yo cubro tecnología, IA y ciencia. Básicamente: qué podemos hacer hoy que ayer no podíamos.
 
 SANTI:
 Y yo intento que todo eso entre en treinta segundos.
 
 CLARA:
-Bienvenidos a El Primer Feca.
+Bienvenidos a El Pri-mer Fe-ca.
 
 VISUAL STRUCTURE:
 One continuous energetic newsroom montage inside the same EL PRIMER FECA physical newsroom: warm morning light, wood, glass, paper, plants, books, monitors, coffee, editorial desk. It is not a generic TV studio, not CNN, not a futuristic spaceship, not cyberpunk.

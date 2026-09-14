@@ -1,7 +1,7 @@
 Create a polished EL PRIMER FECA vertical video, 9:16, 30 seconds, 480p, generated audio, AI-native Argentine morning newsroom, featuring Santi "El Productor" as the protagonist while preserving the supplied reference image identity.
 
 LANGUAGE AND VOICE ARE HARD REQUIREMENTS:
-All spoken words must be natural contemporary Argentine Rioplatense Spanish, Buenos Aires / porteno accent, natural voseo cadence, reflective but energetic. Not neutral Latin American Spanish, not Mexican, not Colombian, not Castilian Spanish, not English-accented Spanish, not corporate announcer narration.
+All spoken words must be natural contemporary Argentine Rioplatense Spanish, Buenos Aires / porteño accent, natural voseo cadence, reflective but energetic. Not neutral Latin American Spanish, not Mexican, not Colombian, not Castilian Spanish, not English-accented Spanish, not corporate announcer narration.
 
 Pronunciation lock:
 The show name is "El Primer Feca".
@@ -10,20 +10,25 @@ Pronounce it clearly as Spanish Rioplatense: "El Pri-mer Fe-ca".
 Do NOT spell it as letters F-E-C-A.
 Do NOT pronounce it like English "Fika".
 
+Read every written accent in the script exactly as written: the tildes carry the stress.
+"IA" is said as two separate letters, "i-a", never as one word "ia".
+"prompts" is said the Argentine way, "prompts", one syllable, never "prom-pets".
+"Instagram" is said the Argentine way, "ins-ta-GRAM".
+
 Use this exact spoken script in Spanish, with natural timing:
 
 SANTI:
-Estoy leyendo todo lo que estan diciendo sobre El Primer Feca. Lo primero: si, esto es un experimento.
+Estoy leyendo todo lo que están diciendo sobre El Pri-mer Fe-ca. Lo primero: sí, esto es un experimento.
 
 No estamos intentando disfrazar una tele vieja con IA. Estamos probando un medio nuevo.
 
-La idea es que los comentarios no queden afuera: que lo que la audiencia discute en Instagram ayude a afinar los proximos prompts, el criterio editorial y hasta la forma de contar.
+La idea es que los comentarios no queden afuera: que lo que la audiencia discute en Instagram ayude a afinar los próximos prompts, el criterio editorial y hasta la forma de contar.
 
-El proceso ya esta automatizado: se buscan noticias, se comparan multiples fuentes, se mira prensa argentina, fuentes oficiales, contexto, relevancia, y recien ahi se cocina el video.
+El proceso ya está automatizado: se buscan noticias, se comparan múltiples fuentes, se mira prensa argentina, fuentes oficiales, contexto, relevancia, y recién ahí se cocina el video.
 
 Eso no reemplaza el criterio. Lo vuelve visible, iterable, criticable.
 
-La inteligencia artificial permite cocinar la noticia de otra manera. Y este noticiero existe para empujar un poco ese limite, con ustedes mirando desde la cocina.
+La inteligencia artificial permite cocinar la noticia de otra manera. Y este noticiero existe para empujar un poco ese límite, con ustedes mirando desde la cocina.
 
 CHARACTER:
 Santi "El Productor", based on the supplied reference image. Preserve face, beard, medium dark slightly messy hair, amber/tortoiseshell glasses, facial proportions, body type, and early-to-mid 40s appearance. Outfit: cream/off-white blazer, vintage graphic T-shirt, faded jeans, retro watch, large production headphones around neck, old walkie-talkie nearby. He is the executive producer of EL PRIMER FECA, usually off-camera, but in this special internal explanatory piece the camera catches him in the production corner and he decides to explain the experiment directly.

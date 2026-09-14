@@ -152,6 +152,9 @@ Third 08:00 Reel:
 
 - Language: contemporary Argentine Spanish / Rioplatense Spanish with natural voseo.
 - Show name pronunciation: `El Pri-mer Fe-ca`, never spelled as `F-E-C-A`, never English `fake`.
+- Spoken text is written in full Spanish orthography: tildes, enies, and `¿` / `¡` opening marks. The voice model reads what is written, so a missing tilde ships as a mispronounced Reel. Figures are always spelled out as words, never left as digits. Full rules in `docs/pronunciation-guide.md`.
+- Every `video-prompt.txt` carries a pronunciation lock block declaring acronyms, foreign terms and hard proper nouns. Generate it with `node tools/primerfeca-pronunciation-check.js lock --script script.txt`.
+- Hard gate before generation: `node tools/primerfeca-pronunciation-check.js check --script script.txt` must exit 0. Exit 2 means the script would be mispronounced; fix it before spending video credits.
 - Duration target: 30 seconds. Seedance 2.5 reference-driven route currently caps at 30s.
 - Script pacing is a hard quality gate. The protagonist must never sound rushed, breathless, or forced to cram too many clauses into 30 seconds. Prefer fewer claims, cleaner sentences, natural pauses, and visual evidence carrying part of the explanation. Target a concise 75-95 spoken Spanish words for a 30-second segment unless the delivery can clearly breathe.
 - Production resolution: 480p vertical 9:16. Target file dimensions after local processing: 540x960, H.264/AAC.
@@ -235,7 +238,7 @@ Before publishing:
 - Confirm the final MP4 duration is at least `subtitled.mp4` duration + cover duration + safety tail - 0.15s. Never publish a file where the cover/title intro cuts off the generated video or final spoken line.
 - Inspect preview frames for cover/title readability, center-square thumbnail safety, character identity, framing, and subtitle readability.
 - Inspect whether the concrete photo/place/object/protagonist referenced in the narration is visible or clearly evoked. If not, log the miss and regenerate when it is central to the story.
-- Reject/regenerate if the clip has wrong account, wrong language, wrong accent, bad show-name pronunciation, missing/incorrect captions, unreadable subtitles, broken audio, or visual drift that misidentifies the selected character.
+- Reject/regenerate if the clip has wrong account, wrong language, wrong accent, bad show-name pronunciation, any mispronounced word, misread figure or spelled-out acronym, missing/incorrect captions, unreadable subtitles, broken audio, or visual drift that misidentifies the selected character. When a word comes out wrong, fix the script and add the word to `tools/pronunciation-lexicon.json` so the checker catches it next time.
 
 Voice/accent remains the hardest automated gate. If no reliable audio review is available, make the prompt explicit and log the limitation honestly in `production.md`.
 

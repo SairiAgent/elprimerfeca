@@ -15,9 +15,23 @@ Use `[CHARACTER NAME]` as the visible presenter. Preserve the canonical characte
 
 The speaker must talk in Spanish:
 
-`espanol rioplatense, acento argentino de Buenos Aires, voz natural, misma voz y mismo acento durante todo el video`
+`español rioplatense, acento argentino de Buenos Aires, voz natural, misma voz y mismo acento durante todo el video`
 
-The show name is pronounced naturally as "El Primer Feca", never as letters.
+The show name is pronounced naturally as "El Pri-mer Fe-ca", never as letters and never like English "fake".
+
+## Pronunciation Lock
+
+Read every written accent in the script exactly as written: the tildes carry the stress.
+
+List here every acronym, foreign term and hard proper noun in this script, with how it must be said. Generate the block instead of writing it by hand:
+
+```bash
+node tools/primerfeca-pronunciation-check.js lock --script script.txt
+```
+
+`[PRONUNCIATION LOCK]`
+
+See `docs/pronunciation-guide.md`.
 
 ## Scene
 
