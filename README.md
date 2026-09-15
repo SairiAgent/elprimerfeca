@@ -32,7 +32,7 @@ No es un avatar leyendo titulares. La ambición es construir una redacción con 
 - `assets/brand/` - marca visual pública de EL PRIMER FECA.
 - `prompts/templates/` - plantillas para crear nuevos videos.
 - `prompts/examples/` - prompts, guiones, captions y notas de investigación de piezas reales.
-- `tools/` - utilidades publicables, sin credenciales, para checks editoriales: dedupe de temas y chequeo de pronunciación.
+- `tools/` - utilidades publicables, sin credenciales, para checks editoriales: dedupe de temas, chequeo de pronunciación del guion escrito y chequeo de que el audio generado diga lo mismo que el guion/subtítulo.
 
 ## Qué No Hay
 
@@ -119,7 +119,8 @@ Para crear una nueva pieza:
 4. Usá `cover-prompt-template.md` para la portada.
 5. Escribí el caption con `caption-template.md`.
 6. Pasá el chequeo de pronunciación: `node tools/primerfeca-pronunciation-check.js check --script script.txt`.
-7. Corré la checklist de `qa-checklist.md` antes de publicar.
+7. Después de generar el video, verificá que el audio diga lo mismo que el guion/subtítulo: `node tools/primerfeca-audio-subtitle-check.js check --script script.txt --transcript transcript.txt`.
+8. Corré la checklist de `qa-checklist.md` antes de publicar.
 
 Los ejemplos reales en `prompts/examples/` muestran cómo se aterriza el sistema.
 
