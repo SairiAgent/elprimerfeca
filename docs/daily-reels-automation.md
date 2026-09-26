@@ -239,6 +239,13 @@ Before publishing:
 - Inspect preview frames for cover/title readability, center-square thumbnail safety, character identity, framing, and subtitle readability.
 - Inspect whether the concrete photo/place/object/protagonist referenced in the narration is visible or clearly evoked. If not, log the miss and regenerate when it is central to the story.
 - Reject/regenerate if the clip has wrong account, wrong language, wrong accent, bad show-name pronunciation, any mispronounced word, misread figure or spelled-out acronym, missing/incorrect captions, unreadable subtitles, broken audio, or visual drift that misidentifies the selected character. When a word comes out wrong, fix the script and add the word to `tools/pronunciation-lexicon.json` so the checker catches it next time.
+- Automated audio/subtitle drift check, mandatory before publish: `script.txt` only guarantees the *written* words are correct. The video model can still paraphrase, drop, or hallucinate content, or mangle a proper noun it doesn't recognize, even from a perfectly written script — the 2026-09-15 `trambus-mueve-calle` incident shipped exactly that way (audio narrated "Hipólito Yrigoyen" and an extra clause about "estacionamiento desde el 15 de septiembre" that appear on no subtitle card, plus "Almagro", "Aeroparque", "Mármol y Pringles" and "Nueva Pompeya" all mispronounced beyond recognition, while the burned subtitles stayed correct). This class of bug is invisible to `primerfeca-pronunciation-check.js` because the script text itself is fine; it only shows up by listening to the actual rendered audio. Gate it automatically:
+
+  ```bash
+  node tools/primerfeca-audio-subtitle-check.js check --script script.txt --transcript transcript.txt
+  ```
+
+  Produce `transcript.txt` by running a local speech-to-text pass over `raw.mp4`/`audio.wav` (run `node tools/primerfeca-audio-subtitle-check.js check` with no arguments for a copy-pasteable `faster-whisper` snippet; no credentials required). A non-zero exit means the audio does not say what the script/subtitles say: regenerate before burning subtitles or publishing, the same way a non-zero exit from the pronunciation checker blocks generation.
 
 Voice/accent remains the hardest automated gate. If no reliable audio review is available, make the prompt explicit and log the limitation honestly in `production.md`.
 
