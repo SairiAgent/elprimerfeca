@@ -1,3 +1,0 @@
-ESTO ES UN EXPERIMENTO
-
-El Primer Feca nacio como un laboratorio de noticias hecho con inteligencia artificial: se buscan temas, se comparan multiples fuentes argentinas y oficiales, se define un criterio editorial y se cocina un video automatizado. La idea ahora es que los comentarios de Instagram tambien ayuden a afinar los proximos prompts y la forma de contar.

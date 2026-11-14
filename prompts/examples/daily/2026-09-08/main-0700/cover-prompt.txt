@@ -1,9 +1,0 @@
-Generate one coherent 9:16 illustrated editorial cover/title image for an Instagram Reel from EL PRIMER FECA.
-
-Use the provided Clara Ferrer reference to preserve her identity as the main editorial host. Use the provided official EL PRIMER FECA logo reference as brand language: coffee mug/newspaper, orange sunrise, steam, bold black show name, cyan-blue-violet stripe, Buenos Aires/Obelisco newspaper panel. Integrate the brand mark naturally inside the artwork as part of the newsroom set or printed prop, not as a pasted overlay.
-
-Title text must be generated inside the image itself, in uppercase Spanish, centered inside the center-square safe crop and very readable as a thumbnail:
-IMPUTABILIDAD EN PAUSA
-
-Scene: Clara in an AI-native Buenos Aires newsroom, holding her blue notebook and black pen, beside a source board with a decree folder "875/2026", a simplified map of Provincia de Buenos Aires, courthouse papers, and labels suggesting "60 DIAS", "14 A 17", "CONFIRMADO", "FALTA IMPLEMENTACION". The image should feel like a sharp morning news illustration, not a flat banner. High contrast, editorial, sophisticated, mobile thumbnail safe, no black rectangles, no subtitle-style lower third, no separate post-production text look.
-
